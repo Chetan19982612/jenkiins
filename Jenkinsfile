@@ -1,7 +1,7 @@
 pipeline{
 agent any
 environment{
-notifyEmail = ""
+notifyEmail = "csgangwar8094466547@gmail.com"
 }
 tools{
 maven 'maven_home'
